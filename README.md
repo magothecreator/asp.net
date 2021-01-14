@@ -13,7 +13,7 @@ O seguinte repositório tem o intuito de agregar conhecimento, sendo totalmente 
 
 #### Dando uma atenção ao 5º marcador:
 
-Foi a minha primeira experiência criando uma API e consumindo dentro de um projeto.
+Foi a minha primeira experiência criando uma API e estar consumindo dentro de um projeto.
 
 Trabalhando conceitos de requisições HTTP pude fixar melhor o conhecimento adquirido.
 
